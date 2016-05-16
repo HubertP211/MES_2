@@ -1,0 +1,53 @@
+8
+16.4
+1073
+250
+0.1
+0.0125
+1
+520
+4500
+298
+
+
+298 1 0
+298 0 0.0125
+298 0 0.0250
+298 0 0.0375
+298 0 0.0500
+298 0 0.0625
+298 0 0.0750
+298 0 0.0875
+298 0 0.1
+
+
+
+0 1 16.4
+1 2 16.4
+2 3 16.4
+3 4 16.4
+4 5 16.4
+5 6 16.4
+6 7 16.4
+7 8 16.4
+
+
+legenda:
+liczba elementow
+global k
+temperatura otoczenia
+alfa
+r_max
+r_delta
+tau_delta
+c
+ro
+temp_pocz
+
+
+wezel:
+temp, warunek brzegowy, r
+
+element:
+id wezla1, idwezla2, k_element
+
